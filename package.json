@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-basico",
+  "version": "1.0.0",
+  "description": "lo basico de node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slayerjhon2210/Nodejs-basico.git"
+  },
+  "keywords": [
+    "node",
+    "windows"
+  ],
+  "author": "Jhon Gonzales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slayerjhon2210/Nodejs-basico/issues"
+  },
+  "homepage": "https://github.com/slayerjhon2210/Nodejs-basico#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
